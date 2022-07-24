@@ -1,6 +1,7 @@
 import { creatingPage } from "./homePage"; 
 import { menuPage } from "./menu";
 import { aboutPage } from "./about";
+import './style.css'
 
 creatingPage()
 
